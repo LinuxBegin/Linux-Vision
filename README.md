@@ -325,10 +325,9 @@ It outlines:
 - `Checklist for the Best Linux PC.md` - Hardware compatibility landscape
 
 ### B. Contact & Contribution
-*[Your preferred contact method or "This document stands alone as a public domain vision"]*
+*"This document stands alone as a public domain vision"*
 
 ### C. License
-This vision document is released under [CC0 / Public Domain / Your Choice].  
 Use it, fork it, improve it, or ignore it.
 
 **The ideas matter more than the author.**
