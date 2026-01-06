@@ -1,0 +1,10 @@
+
+-  [Linux Foundation Training](https://training.linuxfoundation.org/resources/free-courses/)
+-  [Introduction to Linux](https://www.edx.org/learn/linux)
+-  [GTK Official](https://www.gtk.org/)
+-  [Qt Official](https://www.qt.io/academy)
+-  [Snapcraft official documentation 01](https://snapcraft.io/docs)
+-  [Snapcraft official documentation 02](https://documentation.ubuntu.com/snapcraft/stable/)
+-  [Learning Meson](https://mesonbuild.com/Tutorial.html)
+-  [Learning CMake](https://cmake.org/cmake/help/latest/guide/tutorial/)
+-  [Systemd for beginners](https://www.golinuxcloud.com/beginners-guide-systemd-tutorial-linux/)
